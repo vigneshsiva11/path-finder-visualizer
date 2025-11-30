@@ -28,7 +28,14 @@ Automatically generate complex mazes to test the algorithms:
 - **Drag & Drop**: Move the Start (Green) and End (Red) nodes to any position.
 - **Draw Walls**: Click and drag on the grid to create your own obstacles.
 - **Responsive Design**: Works on different screen sizes.
-- **Analytics**: View real-time statistics like visited nodes and path length.
+
+### Advanced Features
+
+- **Comparison Mode**: Run two different algorithms side-by-side on the same maze to directly compare their performance and pathfinding logic.
+- **Real-Time Analytics**: View detailed charts and graphs displaying metrics like visited nodes, path length, and execution time to determine the most efficient algorithm.
+- **Playback Controls**:
+  - **Pause & Play**: Control the flow of the visualization at any moment.
+  - **Rewind & Scrub**: Use the timeline slider to rewind the visualization and see exactly how the algorithm explored the grid at any specific point in time.
 
 ## 🛠️ Tech Stack
 
