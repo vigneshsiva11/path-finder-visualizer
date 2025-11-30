@@ -1,3 +1,8 @@
+# Live Demo
+https://path-finder-visualizer-lyart.vercel.app/
+
+
+
 # Path-Finding Algorithm Visualizer
 
 A fully interactive and responsive web application to visualize various pathfinding algorithms and maze generation techniques. Built with React, TypeScript, and Vite, this tool helps users understand how different algorithms navigate through a grid to find the shortest path between two points.
