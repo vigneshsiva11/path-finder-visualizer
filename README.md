@@ -2,7 +2,7 @@
 
 A fully interactive and responsive web application to visualize various pathfinding algorithms and maze generation techniques. Built with React, TypeScript, and Vite, this tool helps users understand how different algorithms navigate through a grid to find the shortest path between two points.
 
-## 🚀 Features
+## Features
 
 ### Pathfinding Algorithms
 
@@ -51,7 +51,7 @@ Before you begin, ensure you have the following installed on your machine:
 1.  **Clone the repository**
 
     ```bash
-    git clone https://github.com/yourusername/path-finding-visualizer.git
+    git clone https://github.com/vigneshsiva11/path-finding-visualizer.git
     cd path-finding-visualizer
     ```
 
@@ -97,31 +97,4 @@ _Note: Currently, there are no automated tests configured for this project. Cont
 5.  **Visualize**: Click the "Visualize" button to start the animation.
 6.  **Clear**: Use the "Clear Board" or "Clear Path" buttons to reset the grid.
 
-## 📂 Project Structure
 
-```
-src/
-├── components/        # React components (Grid, Controls, Analytics, etc.)
-├── guidelines/        # Project guidelines and documentation
-├── styles/            # Global styles and CSS
-├── types/             # TypeScript type definitions
-├── utils/             # Algorithm implementations and helper functions
-│   ├── maze-generators.ts       # Maze generation logic
-│   └── pathfinding-algorithms.ts # Pathfinding algorithm logic
-├── App.tsx            # Main application component
-└── main.tsx           # Entry point
-```
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1.  Fork the project
-2.  Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3.  Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4.  Push to the branch (`git push origin feature/AmazingFeature`)
-5.  Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
